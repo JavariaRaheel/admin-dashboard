@@ -12,7 +12,7 @@ export const projectId = assertValue(
 )
 
 export const token = assertValue(
-  "sk0yyAq32Wp5GeMASj0cOy0jAkyrfweXPMcsteB6pauT0JKiBQgbtbf9zTQaOzIceTt1fLgYBD76Nh0u1PgWfgkY9FzFlvmOOhzk9T2wBYZWRyVdtlLG4sqa0F9wGDzqZUBIvLSc0K82fU8Pk3lFI8coR6vsRuq3k23Xxs2zZcmLTO4lhet4",
+  "skPGi4ux8RsctLXsHuNUbe0FisVhXBvDknDgPK5TpE0rLGTffxFzYwq7gnJiNYY3niJA89GV7FlZXGnnssZUdeGsFGiRH2iKZgsWoEZdXOa9JHJ81IBFWCjYUhQffjP4cNrx4pf89AabhaErrFJyj92WdQlkqVGyLKRET3hQszt9z5uTVbQw",
   'Missing environment variable: NEXT_API_TOKEN'
 )
 
